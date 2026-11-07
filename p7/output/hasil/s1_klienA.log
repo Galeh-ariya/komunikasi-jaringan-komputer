@@ -1,0 +1,8 @@
+[21:25:14.856] [KlienA] mulai connect() ke 127.0.0.1:5000
+[21:25:14.866] [KlienA] connect() selesai (TCP handshake sukses) dalam 9.3 ms
+[21:25:14.866] [KlienA] menahan koneksi selama 2.0 detik sebelum kirim data (simulasi klien aktif lama)
+[21:25:16.867] [KlienA] kirim pesan: "halo dari A"
+[21:25:16.867] [KlienA] terima: 'halo dari A'
+[21:25:17.668] [KlienA] kirim pesan: "pesan kedua A"
+[21:25:17.669] [KlienA] terima: 'pesan kedua A'
+[21:25:18.871] [KlienA] koneksi ditutup

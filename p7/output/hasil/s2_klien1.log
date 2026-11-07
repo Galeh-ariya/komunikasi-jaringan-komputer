@@ -1,0 +1,9 @@
+[21:25:20.258] [Klien1] mulai connect() ke 127.0.0.1:5001
+[21:25:20.261] [Klien1] connect() selesai (TCP handshake sukses) dalam 2.9 ms
+[21:25:20.261] [Klien1] kirim nama pendaftaran: "Andi"
+[21:25:20.262] [Klien1] terima balasan: '[Citra] ikut gabung'
+[21:25:20.262] [Klien1] kirim pesan: "halo semua"
+[21:25:20.270] [Klien1] terima: '*** Budi bergabung ke ruang chat'
+[21:25:20.971] [Klien1] kirim pesan: "apa kabar?"
+[21:25:20.972] [Klien1] terima: '[Budi] halo juga'
+[21:25:22.073] [Klien1] koneksi ditutup

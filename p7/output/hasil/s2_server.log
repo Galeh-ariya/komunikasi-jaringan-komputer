@@ -1,0 +1,15 @@
+[21:25:19.889] [S2] server poll() mendengarkan di 127.0.0.1:5001 (maks 32 klien simultan)
+[21:25:20.246] [S2] klien baru diterima 127.0.0.1:45888 (total klien aktif=1, tanpa menunggu klien lain)
+[21:25:20.246] [S2] klien 127.0.0.1:45888 mendaftar sebagai nama="Citra"
+[21:25:20.261] [S2] klien baru diterima 127.0.0.1:45900 (total klien aktif=2, tanpa menunggu klien lain)
+[21:25:20.261] [S2] klien 127.0.0.1:45900 mendaftar sebagai nama="Andi"
+[21:25:20.262] [S2] pesan dari Citra (127.0.0.1:45888): "ikut gabung"
+[21:25:20.262] [S2] pesan dari Andi (127.0.0.1:45900): "halo semua"
+[21:25:20.270] [S2] klien baru diterima 127.0.0.1:45908 (total klien aktif=3, tanpa menunggu klien lain)
+[21:25:20.270] [S2] klien 127.0.0.1:45908 mendaftar sebagai nama="Budi"
+[21:25:20.971] [S2] pesan dari Andi (127.0.0.1:45900): "apa kabar?"
+[21:25:20.972] [S2] pesan dari Budi (127.0.0.1:45908): "halo juga"
+[21:25:21.372] [S2] klien 127.0.0.1:45888 (Citra) terputus, alasan=ditutup klien
+[21:25:22.073] [S2] klien 127.0.0.1:45900 (Andi) terputus, alasan=ditutup klien
+[21:25:26.684] [S2] pesan dari Budi (127.0.0.1:45908): "sibuk ya?"
+[21:25:32.791] [S2] klien 127.0.0.1:45908 (Budi) terputus, alasan=ditutup klien

@@ -1,0 +1,11 @@
+[21:25:14.475] [S1] server iteratif mendengarkan di 127.0.0.1:5000
+[21:25:14.866] [S1] klien diterima 127.0.0.1:52516 (mode blocking, klien lain harus menunggu)
+[21:25:16.867] [S1] terima 11 byte dari 127.0.0.1:52516 -> "halo dari A"
+[21:25:16.867] [S1] echo 11 byte ke 127.0.0.1:52516
+[21:25:17.669] [S1] terima 13 byte dari 127.0.0.1:52516 -> "pesan kedua A"
+[21:25:17.669] [S1] echo 13 byte ke 127.0.0.1:52516
+[21:25:18.871] [S1] klien 127.0.0.1:52516 terputus, server siap accept() klien berikutnya
+[21:25:18.871] [S1] klien diterima 127.0.0.1:52518 (mode blocking, klien lain harus menunggu)
+[21:25:18.871] [S1] terima 11 byte dari 127.0.0.1:52518 -> "halo dari B"
+[21:25:18.871] [S1] echo 11 byte ke 127.0.0.1:52518
+[21:25:19.573] [S1] klien 127.0.0.1:52518 terputus, server siap accept() klien berikutnya

@@ -1,0 +1,5 @@
+[21:25:15.435] [KlienB] mulai connect() ke 127.0.0.1:5000
+[21:25:15.437] [KlienB] connect() selesai (TCP handshake sukses) dalam 2.4 ms
+[21:25:15.437] [KlienB] kirim pesan: "halo dari B"
+[21:25:18.871] [KlienB] terima: 'halo dari B'
+[21:25:19.573] [KlienB] koneksi ditutup
